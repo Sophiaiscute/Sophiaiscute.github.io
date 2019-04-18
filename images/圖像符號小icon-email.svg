@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.053 264.053">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #1a1311;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 18px;
+      }
+
+      .cls-2 {
+        stroke-width: 6.56px;
+      }
+
+      .cls-3 {
+        fill: #1a1311;
+      }
+
+      .cls-4 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 7.672px;
+      }
+    </style>
+  </defs>
+  <title>圖像符號小ICON EMAIL</title>
+  <g id="圖層_1" data-name="圖層 1">
+    <circle class="cls-1" cx="132.026" cy="132.026" r="123.026"/>
+  </g>
+  <g id="圖層_2" data-name="圖層 2">
+    <rect class="cls-2" x="57.172" y="85.971" width="152.504" height="97.886" rx="4.92" ry="4.92"/>
+    <rect class="cls-3" x="58.97" y="85.971" width="148" height="100.5"/>
+    <polyline class="cls-4" points="41.746 99.443 131.042 137.471 221.47 99.443"/>
+  </g>
+</svg>
